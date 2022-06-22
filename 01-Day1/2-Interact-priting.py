@@ -8,6 +8,4 @@ print("The fuction is declared like this")
 print("print('what to print')")
 print('print("what to print")')
 
-#print on new line lines
 
-print("Hey there! I am Sandrine. \nWhat about yourself?")
