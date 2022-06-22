@@ -1,0 +1,5 @@
+name = input("Hey! What's your name? ")
+length = len(name)
+print("Welcome " + name)
+#length = len(name)
+print(length)
