@@ -3,4 +3,7 @@
 #   print('e.g. print("Hello " + "world")')
 # print(("New lines can be created with a backslash and n.")
 
-print('what ro print')
+print('Day 1 - Python Print Function')
+print("The fuction is declared like this")
+print("print('what to print')")
+print('print("what to print")')
